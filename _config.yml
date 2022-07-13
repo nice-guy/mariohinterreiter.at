@@ -2,4 +2,7 @@ theme: jekyll-theme-cayman
 # remote-theme: jekyll-theme-minimal
 
 title: Mario Hinterreiter
-description: Digitalisierung für Bau, Handwerk und Industriehiehie
+description: Digitalisierung für Bau, Handwerk und Industrie
+
+show_downloads: false
+# google_analytics: 123
