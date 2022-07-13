@@ -1,3 +1,3 @@
-# Global orientiert <br> im Salzkammergut verwurzelt
+# Global orientiert, im Salzkammergut verwurzelt
 
 We're cool, therefore we rule!
