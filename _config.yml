@@ -3,5 +3,5 @@ description: Digitalisierung für Bau, Handwerk und Industrie
 theme: jekyll-theme-cayman
 show_downloads: false
 
-markdown: GFM       # kramdown
+# markdown: GFM       # kramdown
 # google_analytics:
