@@ -3,3 +3,22 @@
 
 @import '{{ site.theme }}';
 // @import 'jekyll-theme-cayman';
+
+.page-header {
+    text-align: left;
+}
+
+.banner-top-picdiv {
+    float: left;
+    margin: 0 5rem 0 15%;
+    padding: 0;
+    line-height: 0;
+    // border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.banner-top-picdiv img {
+    height: 150px;
+    padding: 0;
+    margin: 0;
+    border: 1px solid rgb(49, 49, 49);
+}
